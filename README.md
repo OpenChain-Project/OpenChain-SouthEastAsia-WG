@@ -28,14 +28,14 @@ All deliverables are licensed under the [Creative Commons Zero License version 1
 _TODO: how to become a work group member_
 
 - Chairperson: Jimmie Wang
-- Vice Chairperson: _Vice Chair_
+- Vice Chairperson: 
 - _Other members_
 
 ## Discussion and Meetings
 
 All meetings and discussions are open for anyone to participate in.
 
-- [Calendar]() - [https://zoom-lfx.platform.linuxfoundation.org/meeting/94971091408?password=aff7edfa-7260-460e-b075-d5cef2082b50]
+- [Calendar](https://zoom-lfx.platform.linuxfoundation.org/meeting/94971091408?password=aff7edfa-7260-460e-b075-d5cef2082b50)
 - [Mailing List](https://lists.openchainproject.org/g/southeastasia-wg)
 - [Slack]() - _add link_
 
